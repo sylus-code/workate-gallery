@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/workate-gallery/static/css/main.0d5cc892.chunk.css",
+    "main.js": "/workate-gallery/static/js/main.5ad2ef9b.chunk.js",
+    "main.js.map": "/workate-gallery/static/js/main.5ad2ef9b.chunk.js.map",
+    "runtime-main.js": "/workate-gallery/static/js/runtime-main.530eced4.js",
+    "runtime-main.js.map": "/workate-gallery/static/js/runtime-main.530eced4.js.map",
+    "static/css/2.6c8eae20.chunk.css": "/workate-gallery/static/css/2.6c8eae20.chunk.css",
+    "static/js/2.69239c0f.chunk.js": "/workate-gallery/static/js/2.69239c0f.chunk.js",
+    "static/js/2.69239c0f.chunk.js.map": "/workate-gallery/static/js/2.69239c0f.chunk.js.map",
+    "index.html": "/workate-gallery/index.html",
+    "precache-manifest.28569ccab30118d7736cf2adaf8e5cc4.js": "/workate-gallery/precache-manifest.28569ccab30118d7736cf2adaf8e5cc4.js",
+    "service-worker.js": "/workate-gallery/service-worker.js",
+    "static/css/2.6c8eae20.chunk.css.map": "/workate-gallery/static/css/2.6c8eae20.chunk.css.map",
+    "static/css/main.0d5cc892.chunk.css.map": "/workate-gallery/static/css/main.0d5cc892.chunk.css.map",
+    "static/js/2.69239c0f.chunk.js.LICENSE.txt": "/workate-gallery/static/js/2.69239c0f.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "/workate-gallery/static/media/revicons.2feb69cc.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.530eced4.js",
+    "static/css/2.6c8eae20.chunk.css",
+    "static/js/2.69239c0f.chunk.js",
+    "static/css/main.0d5cc892.chunk.css",
+    "static/js/main.5ad2ef9b.chunk.js"
+  ]
+}
