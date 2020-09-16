@@ -16,8 +16,6 @@ class Gallery extends Component {
             .then(data => {
                 this.setState((prevState) => {
                     return prevState.data = data
-                }, () => {
-                    console.log(this.state.data)
                 });
             })
     }
@@ -27,7 +25,7 @@ class Gallery extends Component {
         if (this.state.data !== null) {
 
             images = this.state.data.map((el, index) => {
-                return <div className="img-box">
+                return <div key={index} className="img-box">
                     <img src={el.download_url} alt={el.author}/>
                 </div>
             });
@@ -58,7 +56,7 @@ class Gallery extends Component {
             }
         };
         return (
-            <div>
+            <div className="center">
                 <Carousel
                     swipeable={false}
                     draggable={false}
