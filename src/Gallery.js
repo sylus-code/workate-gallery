@@ -58,7 +58,7 @@ class Gallery extends Component {
         return (
             <div className="center">
                 <Carousel
-                    swipeable={false}
+                    swipeable={true}
                     draggable={false}
                     responsive={responsive}
                     ssr={true} // means to render carousel on server-side.
